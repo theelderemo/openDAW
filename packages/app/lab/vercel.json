@@ -1,4 +1,5 @@
 {
   "installCommand": "cd ../../.. && npm install",
-  "buildCommand": "cd ../../.. && npx turbo build --filter=@opendaw/lab"
+  "buildCommand": "cd ../../.. && npx turbo build --filter=@opendaw/lab",
+  "outputDirectory": "dist"
 }
