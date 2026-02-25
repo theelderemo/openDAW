@@ -1,8 +1,0 @@
-{
-  "name": "@opendaw/typescript-config",
-  "version": "0.0.29",
-  "private": true,
-  "publishConfig": {
-    "access": "public"
-  }
-}

@@ -1,1 +1,0 @@
-export enum VoicingMode {Monophonic, Polyphonic}

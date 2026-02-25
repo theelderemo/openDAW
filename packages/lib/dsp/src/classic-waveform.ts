@@ -1,1 +1,0 @@
-export enum ClassicWaveform {sine, triangle, saw, square}

@@ -1,1 +1,0 @@
-This package is part of the openDAW SDK

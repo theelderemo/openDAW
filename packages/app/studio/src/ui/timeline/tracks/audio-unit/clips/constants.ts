@@ -1,1 +1,0 @@
-export const ClipWidth = 49 // make a better connection to the CSS variables and adjustable
