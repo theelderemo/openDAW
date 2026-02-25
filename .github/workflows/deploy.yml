@@ -1,5 +1,5 @@
 # .github/workflows/deploy.yml
-name: Deploy VRSA Studio
+name: Deploy openDAW studio
 
 on:
   workflow_dispatch:

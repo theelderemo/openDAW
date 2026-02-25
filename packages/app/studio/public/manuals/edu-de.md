@@ -1,6 +1,6 @@
-# VRSA
+# openDAW
 
-VRSA ist eine browserbasierte Digital Audio Workstation, die mit klarem Fokus auf Bildung, Datenschutz und Offenheit
+openDAW ist eine browserbasierte Digital Audio Workstation, die mit klarem Fokus auf Bildung, Datenschutz und Offenheit
 entwickelt wurde.
 Sie ermöglicht **DSGVO-konforme** Musikproduktion im Unterricht – ohne Account, ohne Registrierung, ohne Tracking und
 ohne Abhängigkeit von kommerziellen Plattformen.
@@ -11,18 +11,18 @@ ohne Abhängigkeit von kommerziellen Plattformen.
 
 ---
 
-## Was ist VRSA?
+## Was ist openDAW?
 
 ### Open-Source Musikproduktion für Bildungseinrichtungen
 
-VRSA ist Open Source und kann vollständig unter eigener Kontrolle betrieben werden. Damit eignet sich die Plattform
+openDAW ist Open Source und kann vollständig unter eigener Kontrolle betrieben werden. Damit eignet sich die Plattform
 besonders für Musikschulen, Verbände und öffentliche Bildungsträger, die Wert auf Datenschutz, Nachhaltigkeit und
 technische Souveränität legen.
 
-### Pädagogische Kernfeatures von VRSA
+### Pädagogische Kernfeatures von openDAW
 
 Die Benutzeroberfläche und Arbeitsweise orientieren sich an etablierten Standards professioneller DAWs. Konzepte wie
-Timeline, Mixer, Routing, Automation und MIDI-Editing sind universell übertragbar. Wer VRSA erlernt, kann später
+Timeline, Mixer, Routing, Automation und MIDI-Editing sind universell übertragbar. Wer openDAW erlernt, kann später
 problemlos auf andere Software wie Ableton Live, Logic Pro oder Cubase umsteigen.
 
 ### DSGVO-konform und datenschutzfreundlich
@@ -42,7 +42,7 @@ problemlos auf andere Software wie Ableton Live, Logic Pro oder Cubase umsteigen
 
 ### Neue Möglichkeiten jenseits klassischer DAWs
 
-VRSA eröffnet als browserbasierte Plattform Anwendungsfälle, die mit herkömmlicher Desktop-Software nicht oder nur
+openDAW eröffnet als browserbasierte Plattform Anwendungsfälle, die mit herkömmlicher Desktop-Software nicht oder nur
 schwer umsetzbar sind:
 
 #### Onlineunterricht und Fernlehre
@@ -71,7 +71,7 @@ schwer umsetzbar sind:
 
 ### Audio- und MIDI-Aufnahme
 
-VRSA unterstützt die Aufnahme von Audio und MIDI direkt im Browser:
+openDAW unterstützt die Aufnahme von Audio und MIDI direkt im Browser:
 
 * Aufnahme von Mikrofon, Line-In oder anderen Audio-Eingängen
 * MIDI-Aufnahme von externen Keyboards und Controllern
@@ -87,7 +87,7 @@ VRSA unterstützt die Aufnahme von Audio und MIDI direkt im Browser:
 
 ### Vergleichstabelle zu anderer Musikproduktions-Software
 
-| Kriterium                                          | VRSA | BandLab | Soundtrap | Ableton Live |
+| Kriterium                                          | openDAW | BandLab | Soundtrap | Ableton Live |
 |----------------------------------------------------|---------|---------|-----------|--------------|
 | Einstieg ohne Account möglich                      | ✓       | –       | –         | –            |
 | Sofort arbeitsfähig im Browser                     | ✓       | ✓       | ✓         | –            |
@@ -113,7 +113,7 @@ VRSA unterstützt die Aufnahme von Audio und MIDI direkt im Browser:
 
 ### Browser-Unterstützung
 
-VRSA läuft in allen modernen Browsern. Es gibt jedoch Unterschiede in der Unterstützung einzelner Web-APIs:
+openDAW läuft in allen modernen Browsern. Es gibt jedoch Unterschiede in der Unterstützung einzelner Web-APIs:
 
 | Funktion             | Chrome | Firefox | Safari |
 |----------------------|--------|---------|--------|
@@ -124,7 +124,7 @@ Chrome bietet die umfassendste Unterstützung und wird für den Einsatz im Unter
 
 ### iPad-Unterstützung
 
-VRSA läuft auch auf dem iPad (Safari). Für eine präzise Bedienung wird eine angeschlossene Maus oder ein Trackpad
+openDAW läuft auch auf dem iPad (Safari). Für eine präzise Bedienung wird eine angeschlossene Maus oder ein Trackpad
 empfohlen.
 
 ### Datenspeicherung
@@ -136,25 +136,25 @@ Server übertragen. Die Daten verbleiben vollständig auf dem Gerät des Nutzers
 
 ### Sofort einsatzbereit
 
-VRSA kann direkt unter [studio.vrsa.app](https://studio.vrsa.app) genutzt werden. Es ist keine Installation, keine
+openDAW kann direkt unter [opendaw.studio](https://opendaw.studio) genutzt werden. Es ist keine Installation, keine
 Registrierung und keine Konfiguration erforderlich. Lernende können sofort mit der Musikproduktion beginnen.
 
 ### Self-Hosting
 
-Für Einrichtungen mit besonderen Anforderungen an Datenschutz oder Netzwerkinfrastruktur kann VRSA auf eigenen
+Für Einrichtungen mit besonderen Anforderungen an Datenschutz oder Netzwerkinfrastruktur kann openDAW auf eigenen
 Servern betrieben werden. Der vollständige Quellcode ist auf GitHub verfügbar.
 
 ## Angebot für Bildungseinrichtungen
 
 ### Kostenlose Nutzung
 
-VRSA ist für die allgemeine Nutzung kostenlos verfügbar. Einzelpersonen, Lehrende und Lernende können die Plattform
-unter [studio.vrsa.app](https://studio.vrsa.app) ohne Einschränkungen nutzen.
+openDAW ist für die allgemeine Nutzung kostenlos verfügbar. Einzelpersonen, Lehrende und Lernende können die Plattform
+unter [opendaw.studio](https://opendaw.studio) ohne Einschränkungen nutzen.
 
 ### Institutionelle Lizenz
 
 Für Musikschulen, Bildungsträger und Verbände bieten wir ein faires Lizenzmodell an. Die Lizenzgebühren fließen
-vollständig in die Weiterentwicklung von VRSA und sichern die langfristige Verfügbarkeit der Plattform.
+vollständig in die Weiterentwicklung von openDAW und sichern die langfristige Verfügbarkeit der Plattform.
 
 Das institutionelle Angebot umfasst:
 
@@ -169,4 +169,4 @@ Sprechen Sie uns an für ein individuelles Angebot, das zu Ihrer Einrichtung pas
 
 Für Fragen, Feedback oder Kooperationsanfragen:
 
-* Homepage: [vrsa.app](https://vrsa.app)
+* Homepage: [opendaw.org](https://opendaw.org)

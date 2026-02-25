@@ -14,7 +14,7 @@ export const ImprintPage: PageFactory<StudioService> = ({}: PageContext<StudioSe
         <p>
             <span style={{color: Colors.cream.toString()}}>André Michelle</span><br/>
             <span style={{color: Colors.dark.toString()}}>Cologne, Germany</span><br/>
-            Email: <a style={{color: Colors.blue}} href="mailto:support@vrsa.app">support@vrsa.app</a>
+            Email: <a style={{color: Colors.blue}} href="mailto:hello@opendaw.org">hello@opendaw.org</a>
         </p>
         <p>
             This website is a personal, non-commercial project.<br/>
@@ -25,7 +25,7 @@ export const ImprintPage: PageFactory<StudioService> = ({}: PageContext<StudioSe
         </p>
         <p>
             For inquiries regarding openDAW, please use the contact above or visit <a style={{color: Colors.blue}}
-                                                                                      href="https://vrsa.app">vrsa.app</a>
+                                                                                      href="https://opendaw.org">opendaw.org</a>
         </p>
     </div>
 )

@@ -17,10 +17,10 @@ export const Dashboard = ({lifecycle, service}: Construct) => {
     return (
         <div className={className}>
             <article>
-                <h1>Welcome to VRSA Studio</h1>
+                <h1>Welcome to openDAW Studio</h1>
                 <h2>Music creation inside your browser</h2>
                 <p style={{margin: "0.5em 0 0 0"}}>
-                    VRSA Studio is an open source web based music studio.
+                    openDAW Studio is an open source web based music studio.
                 </p>
                 <div className="columns">
                     <DemoProjects lifecycle={lifecycle} service={service}/>

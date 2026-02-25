@@ -45,7 +45,7 @@ export class DawProjectService {
             DawProject.encode(project.skeleton, project.sampleManager, Xml.element({
                 title: meta.name,
                 year: new Date().getFullYear().toString(),
-                website: "https://studio.vrsa.app"
+                website: "https://opendaw.studio"
             }, MetaDataSchema)))
         dialog.terminate()
         if (status === "rejected") {
