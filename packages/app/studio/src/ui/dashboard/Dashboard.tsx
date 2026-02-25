@@ -17,8 +17,8 @@ export const Dashboard = ({lifecycle, service}: Construct) => {
     return (
         <div className={className}>
             <article>
-                <h1>Welcome to openDAW</h1>
-                <h2>A new holistic exploration of music creation inside your browser</h2>
+                <h1>Welcome to VRSA's Studio.</h1>
+                <h2>This studio is provided by an open source project, OpenDAW.</h2>
                 <p style={{margin: "0.5em 0 0 0"}}>
                     openDAW is an open source web based music studio with a clear focus on <a
                     href="https://opendaw.org/education" target="education">education</a> and <LocalLink
