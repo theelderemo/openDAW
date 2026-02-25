@@ -93,9 +93,9 @@ export const ProjectProfileInfo = ({lifecycle, service}: Construct) => {
                 <div className="label"/>
                 <div style={{display: "flex", flexDirection: "column", rowGap: "1em"}}>
                     <div>
-                        Publish your music to <a href="https://music.opendaw.studio"
+                        Publish your music to <a href="https://music.vrsa.app"
                                                  style={{color: Colors.purple}}
-                                                 target="music.opendaw.studio">our music
+                                                 target="music.vrsa.app">our music
                         page</a>
                     </div>
                     <div style={{display: "flex", columnGap: "1em"}}>

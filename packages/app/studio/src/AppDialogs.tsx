@@ -28,7 +28,7 @@ export const showStoragePersistDialog = (): Promise<void> => {
                 <p>To make this a permanent friendship, please go to:</p>
                 <p style={{color: Colors.yellow.toString()}}>Preferences - Privacy & Security - Cookies & Site Data - Manage
                     Exceptions...</p>
-                <p>and add opendaw.studio to the list. You will never be bothered again.</p>
+                <p>and add studio.vrsa.app to the list. You will never be bothered again.</p>
             </div>
         </Dialog>
     )

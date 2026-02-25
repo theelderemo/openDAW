@@ -1,14 +1,14 @@
-# openDAW Manuals
+# DAW Manuals
 
-Please join our [discord community](https://discord.opendaw.studio) for updates and news!
+Please join our [discord community](https://discord.com/invite/FQ6XGNf53P) for updates and news!
 
 ## Known Issues
 
-**openDAW is in an early prototype stage and NOT ready for production use!**
+**The DAW is in an early prototype stage**
 
 ### General
 
-* Some features in openDAW may be unpolished or not functional yet.
+* Some features in the DAW may be unpolished or not functional yet.
 * No backward compatibility is guaranteed. New studio versions may invalidate old project files.
 
 ### Audio Engine

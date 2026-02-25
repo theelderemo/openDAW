@@ -8,7 +8,7 @@ describe("DAW-project XML", () => {
     it("MetaData", () => {
         const title = "This is the title."
         const artist = "André Michelle"
-        const website = "https://opendaw.studio"
+        const website = "https://studio.vrsa.app"
         const xmlString = Xml.pretty(Xml.toElement("MetaData",
             Xml.element({title, artist, website}, MetaDataSchema)))
         const metaDataSchema = Xml.parse(xmlString, MetaDataSchema)
